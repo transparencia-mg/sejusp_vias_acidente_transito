@@ -1,0 +1,1467 @@
+{
+  "version": "4.16.6",
+  "time": 30.215,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2012",
+        "path": "data/via_acidente_transito_2012.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "061417fec9e23132c1a38ab07a65a930",
+          "bytes": 16112574,
+          "fields": 11,
+          "rows": 147576
+        }
+      },
+      "time": 3.153,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2013",
+        "path": "data/via_acidente_transito_2013.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "884bac673f2ccf8bc4b5031b24d88709",
+          "bytes": 15319914,
+          "fields": 11,
+          "rows": 140310
+        }
+      },
+      "time": 3.051,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2014",
+        "path": "data/via_acidente_transito_2014.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "eeff0c27294a1de4781ed05784799ddd",
+          "bytes": 13865274,
+          "fields": 11,
+          "rows": 127018
+        }
+      },
+      "time": 2.747,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2015",
+        "path": "data/via_acidente_transito_2015.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "93f59eded582b0acb954dc625d2c053c",
+          "bytes": 11681380,
+          "fields": 11,
+          "rows": 107006
+        }
+      },
+      "time": 2.309,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2016",
+        "path": "data/via_acidente_transito_2016.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "01cde6adf1e57c232049493ec042e3a4",
+          "bytes": 10499479,
+          "fields": 11,
+          "rows": 96186
+        }
+      },
+      "time": 2.073,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2017",
+        "path": "data/via_acidente_transito_2017.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "461d88ead8656cbe412e6fa69ba2e6eb",
+          "bytes": 10164876,
+          "fields": 11,
+          "rows": 93116
+        }
+      },
+      "time": 2.007,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2018",
+        "path": "data/via_acidente_transito_2018.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "4426fcdce9006097fa00741298fe3ed2",
+          "bytes": 9578932,
+          "fields": 11,
+          "rows": 87747
+        }
+      },
+      "time": 1.902,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2019",
+        "path": "data/via_acidente_transito_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "9583373c6ce61a07b1e8d2adf0c5057d",
+          "bytes": 9895857,
+          "fields": 11,
+          "rows": 90664
+        }
+      },
+      "time": 1.941,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2020",
+        "path": "data/via_acidente_transito_2020.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "26425384fd187875b45098791faf8c78",
+          "bytes": 8361229,
+          "fields": 11,
+          "rows": 76587
+        }
+      },
+      "time": 1.64,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2021",
+        "path": "data/via_acidente_transito_2021.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "fef907d13bb6efda35e8ff386451f3bf",
+          "bytes": 8344947,
+          "fields": 11,
+          "rows": 76444
+        }
+      },
+      "time": 1.648,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2022",
+        "path": "data/via_acidente_transito_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "ceeb34a344df144cba74d451b11139b7",
+          "bytes": 8342575,
+          "fields": 11,
+          "rows": 76443
+        }
+      },
+      "time": 1.667,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2023",
+        "path": "data/via_acidente_transito_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "79ad8be4582e9fc5987d743d0be6f861",
+          "bytes": 8224594,
+          "fields": 11,
+          "rows": 75357
+        }
+      },
+      "time": 1.619,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2024",
+        "path": "data/via_acidente_transito_2024.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "2de4ec767b4f46258f084e17a0baeb16",
+          "bytes": 8217556,
+          "fields": 11,
+          "rows": 75281
+        }
+      },
+      "time": 1.629,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2025",
+        "path": "data/via_acidente_transito_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "21f0f0fc82673f6f49fcaa9c6c1b545c",
+          "bytes": 8453888,
+          "fields": 11,
+          "rows": 77442
+        }
+      },
+      "time": 1.663,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "via_acidente_transito_2026",
+        "path": "data/via_acidente_transito_2026.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "string"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "geopoint"
+            },
+            {
+              "name": "boa",
+              "type": "string"
+            },
+            {
+              "name": "buracos",
+              "type": "string"
+            },
+            {
+              "name": "material_na_pista",
+              "type": "string"
+            },
+            {
+              "name": "ondulada",
+              "type": "string"
+            },
+            {
+              "name": "outras_no_historico",
+              "type": "string"
+            },
+            {
+              "name": "rachadura",
+              "type": "string"
+            },
+            {
+              "name": "sulcos_horizontais",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "f6507160118ffa57d399705aeed50955",
+          "bytes": 4895371,
+          "fields": 11,
+          "rows": 43363
+        }
+      },
+      "time": 1.03,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 15
+  },
+  "valid": true
+}
