@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 30.215,
+  "time": 30.035,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -64,7 +63,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2012",
         "stats": {
           "hash": "061417fec9e23132c1a38ab07a65a930",
           "bytes": 16112574,
@@ -72,7 +71,7 @@
           "rows": 147576
         }
       },
-      "time": 3.153,
+      "time": 3.139,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -102,7 +101,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -161,7 +159,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2013",
         "stats": {
           "hash": "884bac673f2ccf8bc4b5031b24d88709",
           "bytes": 15319914,
@@ -169,7 +167,7 @@
           "rows": 140310
         }
       },
-      "time": 3.051,
+      "time": 3.008,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -199,7 +197,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -258,7 +255,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2014",
         "stats": {
           "hash": "eeff0c27294a1de4781ed05784799ddd",
           "bytes": 13865274,
@@ -266,7 +263,7 @@
           "rows": 127018
         }
       },
-      "time": 2.747,
+      "time": 2.757,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -296,7 +293,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -355,7 +351,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2015",
         "stats": {
           "hash": "93f59eded582b0acb954dc625d2c053c",
           "bytes": 11681380,
@@ -363,7 +359,7 @@
           "rows": 107006
         }
       },
-      "time": 2.309,
+      "time": 2.287,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -393,7 +389,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -452,7 +447,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2016",
         "stats": {
           "hash": "01cde6adf1e57c232049493ec042e3a4",
           "bytes": 10499479,
@@ -460,7 +455,7 @@
           "rows": 96186
         }
       },
-      "time": 2.073,
+      "time": 2.07,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -490,7 +485,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -549,7 +543,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2017",
         "stats": {
           "hash": "461d88ead8656cbe412e6fa69ba2e6eb",
           "bytes": 10164876,
@@ -557,7 +551,7 @@
           "rows": 93116
         }
       },
-      "time": 2.007,
+      "time": 1.983,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -587,7 +581,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -646,7 +639,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2018",
         "stats": {
           "hash": "4426fcdce9006097fa00741298fe3ed2",
           "bytes": 9578932,
@@ -654,7 +647,7 @@
           "rows": 87747
         }
       },
-      "time": 1.902,
+      "time": 1.886,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -684,7 +677,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -743,7 +735,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2019",
         "stats": {
           "hash": "9583373c6ce61a07b1e8d2adf0c5057d",
           "bytes": 9895857,
@@ -751,7 +743,7 @@
           "rows": 90664
         }
       },
-      "time": 1.941,
+      "time": 1.952,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -781,7 +773,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -840,7 +831,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2020",
         "stats": {
           "hash": "26425384fd187875b45098791faf8c78",
           "bytes": 8361229,
@@ -848,7 +839,7 @@
           "rows": 76587
         }
       },
-      "time": 1.64,
+      "time": 1.641,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -878,7 +869,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -937,7 +927,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2021",
         "stats": {
           "hash": "fef907d13bb6efda35e8ff386451f3bf",
           "bytes": 8344947,
@@ -945,7 +935,7 @@
           "rows": 76444
         }
       },
-      "time": 1.648,
+      "time": 1.631,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -975,7 +965,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1034,7 +1023,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2022",
         "stats": {
           "hash": "ceeb34a344df144cba74d451b11139b7",
           "bytes": 8342575,
@@ -1042,7 +1031,7 @@
           "rows": 76443
         }
       },
-      "time": 1.667,
+      "time": 1.637,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1072,7 +1061,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1131,7 +1119,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2023",
         "stats": {
           "hash": "79ad8be4582e9fc5987d743d0be6f861",
           "bytes": 8224594,
@@ -1139,7 +1127,7 @@
           "rows": 75357
         }
       },
-      "time": 1.619,
+      "time": 1.612,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1169,7 +1157,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1228,7 +1215,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2024",
         "stats": {
           "hash": "2de4ec767b4f46258f084e17a0baeb16",
           "bytes": 8217556,
@@ -1236,7 +1223,7 @@
           "rows": 75281
         }
       },
-      "time": 1.629,
+      "time": 1.619,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1266,7 +1253,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1325,7 +1311,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2025",
         "stats": {
           "hash": "21f0f0fc82673f6f49fcaa9c6c1b545c",
           "bytes": 8453888,
@@ -1333,7 +1319,7 @@
           "rows": 77442
         }
       },
-      "time": 1.663,
+      "time": 1.66,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1363,7 +1349,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1422,7 +1407,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Via Acidente Trânsito 2026",
         "stats": {
           "hash": "f6507160118ffa57d399705aeed50955",
           "bytes": 4895371,
@@ -1430,7 +1415,7 @@
           "rows": 43363
         }
       },
-      "time": 1.03,
+      "time": 1.016,
       "scope": [
         "hash-count-error",
         "byte-count-error",
